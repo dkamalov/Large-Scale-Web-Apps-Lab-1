@@ -1,0 +1,8 @@
+changelog.txt
+
+Copy pasted folder from intelliJ
+Added toDo file
+Deleted original folder
+Added edited folder
+Added issue 
+Added changelog
